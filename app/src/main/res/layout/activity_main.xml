@@ -22,4 +22,10 @@
         tools:layout_editor_absoluteX="158dp"
         tools:layout_editor_absoluteY="480dp" />
 
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
